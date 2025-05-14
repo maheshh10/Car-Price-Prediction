@@ -1,9 +1,6 @@
 # Car-Price-Prediction
 This project aims to predict the selling price of used cars based on various features using machine learning. 
 
-# Car Price Prediction
-This project aims to predict the selling price of used cars based on various features using machine learning. 
-
 ## Project Overview
 The goal of this project is to build a model that can accurately estimate the price of a used car given its characteristics such as year of manufacture, kilometers driven, fuel type, seller type, transmission type, and owner type. 
 
